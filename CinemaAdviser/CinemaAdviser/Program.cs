@@ -9,7 +9,7 @@
             String name = Console.ReadLine();
             Console.WriteLine("Здравствуйте, " + name);
 
-            Console.WriteLine("Фильм какого жанра вы бы хотели посмотреть: комедия, боевик, драма, мультик, мюзикл, артхаус, мелодрама, фантастика?");
+            Console.WriteLine("Фильм какого жанра вы бы хотели посмотреть: комедия, боевик, драма, мультик, мюзикл, артхаус, мелодрама, фантастика, триллер?");
             String genre = Console.ReadLine();
 
             Console.WriteLine("В таком случае, рекомендую вам следующие фильмы: ");
@@ -61,6 +61,10 @@
                 Console.WriteLine("Гарри Поттер");
                 Console.WriteLine("Дюна");
             }
+            else if (genre == "триллер")
+            {
+                Console.WriteLine("Оно");
+                Console.WriteLine("Чужой");
             else
             {
                 Console.WriteLine("Отель Гранд Будапешт");
