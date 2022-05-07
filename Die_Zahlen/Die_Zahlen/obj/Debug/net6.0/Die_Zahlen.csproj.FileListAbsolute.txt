@@ -1,0 +1,15 @@
+C:\Users\mob19\source\repos\Hello_World\Die_Zahlen\Die_Zahlen\obj\Debug\net6.0\Die_Zahlen.csproj.AssemblyReference.cache
+C:\Users\mob19\source\repos\Hello_World\Die_Zahlen\Die_Zahlen\obj\Debug\net6.0\Die_Zahlen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mob19\source\repos\Hello_World\Die_Zahlen\Die_Zahlen\obj\Debug\net6.0\Die_Zahlen.AssemblyInfoInputs.cache
+C:\Users\mob19\source\repos\Hello_World\Die_Zahlen\Die_Zahlen\obj\Debug\net6.0\Die_Zahlen.AssemblyInfo.cs
+C:\Users\mob19\source\repos\Hello_World\Die_Zahlen\Die_Zahlen\obj\Debug\net6.0\Die_Zahlen.csproj.CoreCompileInputs.cache
+C:\Users\mob19\source\repos\Hello_World\Die_Zahlen\Die_Zahlen\bin\Debug\net6.0\Die_Zahlen.exe
+C:\Users\mob19\source\repos\Hello_World\Die_Zahlen\Die_Zahlen\bin\Debug\net6.0\Die_Zahlen.deps.json
+C:\Users\mob19\source\repos\Hello_World\Die_Zahlen\Die_Zahlen\bin\Debug\net6.0\Die_Zahlen.runtimeconfig.json
+C:\Users\mob19\source\repos\Hello_World\Die_Zahlen\Die_Zahlen\bin\Debug\net6.0\Die_Zahlen.dll
+C:\Users\mob19\source\repos\Hello_World\Die_Zahlen\Die_Zahlen\bin\Debug\net6.0\Die_Zahlen.pdb
+C:\Users\mob19\source\repos\Hello_World\Die_Zahlen\Die_Zahlen\obj\Debug\net6.0\Die_Zahlen.dll
+C:\Users\mob19\source\repos\Hello_World\Die_Zahlen\Die_Zahlen\obj\Debug\net6.0\refint\Die_Zahlen.dll
+C:\Users\mob19\source\repos\Hello_World\Die_Zahlen\Die_Zahlen\obj\Debug\net6.0\Die_Zahlen.pdb
+C:\Users\mob19\source\repos\Hello_World\Die_Zahlen\Die_Zahlen\obj\Debug\net6.0\Die_Zahlen.genruntimeconfig.cache
+C:\Users\mob19\source\repos\Hello_World\Die_Zahlen\Die_Zahlen\obj\Debug\net6.0\ref\Die_Zahlen.dll
